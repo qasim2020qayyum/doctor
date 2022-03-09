@@ -1,0 +1,15 @@
+.dochome{
+display: flex;
+/* justify-content: space-between; */
+}
+.doc_first {
+    display: flex;
+    flex-direction: column;
+
+}
+.doc_first_2{
+    font-size: 10px;
+    text-align: center;
+    width: 100px;
+    border: 1px solid black;
+}
